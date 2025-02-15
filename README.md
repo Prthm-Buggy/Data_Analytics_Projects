@@ -15,7 +15,7 @@ This repository showcases my end-to-end data analytics projects, highlighting my
 
 ## Introduction
 
-Hello, I am **Devarshee Gaurav Das**, a data analyst with a strong foundation in SQL, Python, Power BI, and data visualization. This portfolio contains all my end-to-end data analytics projects where I analyze datasets, derive meaningful insights, and create dashboards. My goal is to provide actionable solutions to real-world problems.
+Hello, I am **Prathamesh Manoj Talele**, a data analyst with a strong foundation in SQL, Python, Power BI, and data visualization. This portfolio contains all my end-to-end data analytics projects where I analyze datasets, derive meaningful insights, and create dashboards. My goal is to provide actionable solutions to real-world problems.
 
 ## Projects
 
