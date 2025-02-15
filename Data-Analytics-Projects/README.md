@@ -47,14 +47,6 @@ Hello, I am **Devarshee Gaurav Das**, a data analyst with a strong foundation in
 - **Exploratory Data Analysis (EDA)**
 - **Business Insights and Recommendations**
 
-## How to Use
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/Data-Analytics-End-to-End-Projects.git
-
-
----
 
 ### **7. Contact**
 Feel free to connect with me:
