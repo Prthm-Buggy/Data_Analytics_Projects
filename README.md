@@ -59,6 +59,5 @@ Hello, I am **Devarshee Gaurav Das**, a data analyst with a strong foundation in
 ### **7. Contact**
 Feel free to connect with me:
 
-- **Email**: [devarsheegaurav@gmail.com](Gmail)
-- **LinkedIn**: [(https://www.linkedin.com/in/devarshee-das-8b9660177/)](LinkedIn)
-- **GitHub**: [(https://github.com/devarshe)](GitHub)
+- **Email**: [prathameshtalele9@gmail.com](Gmail)
+- **GitHub**: [(https://github.com/Prthm-Buggy)](GitHub)
